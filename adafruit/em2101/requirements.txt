@@ -1,0 +1,10 @@
+Adafruit-Blinka==6.15.0
+adafruit-circuitpython-busdevice==5.1.0
+adafruit-circuitpython-emc2101==1.1.8
+adafruit-circuitpython-register==1.9.5
+Adafruit-PlatformDetect==3.16.1
+Adafruit-PureIO==1.1.9
+hidapi==0.11.0.post2
+pyftdi==0.53.3
+pyserial==3.5
+pyusb==1.2.1
