@@ -1,3 +1,4 @@
+# Source from: https://learn.adafruit.com/circuitpython-libraries-on-any-computer-with-mcp2221
 """CircuitPython Essentials I2C Scan example"""
 # If you run this and it seems to hang, try manually unlocking
 # your I2C bus from the REPL with
