@@ -1,0 +1,6 @@
+CIRCUITPY_WIFI_SSID="WIFI SSI"
+CIRCUITPY_WIFI_PASSWORD="SuperSecret"
+CIRCUITPY_WEB_API_PORT=80
+CIRCUITPY_WEB_API_PASSWORD="more secrets"
+test_variable="this is a test"
+thumbs_up="\U0001f44d"
